@@ -1,5 +1,4 @@
-yapılcak listesi 
-- profil bölümü# 📚 Library Management System
+
 
 Modern ve kullanıcı dostu bir *Kütüphane Yönetim Sistemi* uygulaması.  
 Kullanıcılar kitapları görüntüleyebilir, ödünç alabilir, profil sayfalarını yönetebilir ve geçmiş işlemlerini takip edebilir.  
